@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "winston": "^3.13.0"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
